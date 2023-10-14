@@ -1,0 +1,14 @@
+C:\Users\samir\source\repos\LifeCount\bin\Debug\net6.0\LifeCount.exe
+C:\Users\samir\source\repos\LifeCount\bin\Debug\net6.0\LifeCount.deps.json
+C:\Users\samir\source\repos\LifeCount\bin\Debug\net6.0\LifeCount.runtimeconfig.json
+C:\Users\samir\source\repos\LifeCount\bin\Debug\net6.0\LifeCount.dll
+C:\Users\samir\source\repos\LifeCount\bin\Debug\net6.0\LifeCount.pdb
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\LifeCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\LifeCount.AssemblyInfoInputs.cache
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\LifeCount.AssemblyInfo.cs
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\LifeCount.csproj.CoreCompileInputs.cache
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\LifeCount.dll
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\refint\LifeCount.dll
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\LifeCount.pdb
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\LifeCount.genruntimeconfig.cache
+C:\Users\samir\source\repos\LifeCount\obj\Debug\net6.0\ref\LifeCount.dll
